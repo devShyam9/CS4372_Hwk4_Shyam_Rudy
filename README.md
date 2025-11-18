@@ -1,7 +1,7 @@
 # CS4372_Hwk4_Shyam_Rudy
 # Text Summarization with Transformers
 
-This project uses a pre-trained transformer model to summarize the novel **The Blue Castle** by L. M. Montgomery.  
+This project uses a pre-trained transformer model to summarize the novel The Blue Castle** by L. M. Montgomery.  
 The text is downloaded directly from Project Gutenberg and processed in Google Colab.
 
 ## Dataset
@@ -10,12 +10,12 @@ The text is downloaded directly from Project Gutenberg and processed in Google C
 - Loaded using a global URL as required.
 
 ## Task
-I performed **text summarization** using the `facebook/bart-large-cnn` model from HuggingFace.
+I performed text summarization using the `facebook/bart-large-cnn` model from HuggingFace.
 
 ## Steps
 1. Download the book text using `requests`.
 2. Clean the text and remove the Gutenberg header.
-3. Split the text into chunks (~1200 characters each).
+3. Split the text into chunks.
 4. Run the BART summarization pipeline on the chunks.
 5. Evaluate the summaries using ROUGE-1, ROUGE-2, and ROUGE-L.
 
