@@ -16,13 +16,6 @@ We performed text summarization using the `facebook/bart-large-cnn` model from H
 4. Run the BART summarization pipeline on the chunks.
 5. Evaluate the summaries using ROUGE-1, ROUGE-2, and ROUGE-L.
 
-## Evaluation
-ROUGE scores were computed for each summarized chunk.  
-Example from the first chunk:
-- ROUGE-1: ~0.41  
-- ROUGE-2: ~0.38  
-- ROUGE-L: ~0.33  
-
 ## How to Run
 Open the provided Google Colab notebook and run each cell in order.  
 The notebook handles:
