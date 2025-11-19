@@ -18,7 +18,6 @@ We performed text summarization using the `facebook/bart-large-cnn` model from H
 
 ## How to Run
 Open the provided Google Colab notebook and run each cell in order.  
-The notebook handles:
 - Loading the data  
 - Summarization  
 - ROUGE evaluation  
