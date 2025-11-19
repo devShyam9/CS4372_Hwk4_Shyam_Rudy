@@ -7,7 +7,7 @@ The text is downloaded directly from Project Gutenberg and processed in Google C
 -  https://www.gutenberg.org/cache/epub/67979/pg67979.txt
 
 ## Task
-I performed text summarization using the `facebook/bart-large-cnn` model from HuggingFace.
+We performed text summarization using the `facebook/bart-large-cnn` model from HuggingFace.
 
 ## Steps
 1. Download the book text using `requests`.
