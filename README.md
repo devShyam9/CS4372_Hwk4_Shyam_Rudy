@@ -4,9 +4,7 @@ This project uses a pre-trained transformer model to summarize the novel The Blu
 The text is downloaded directly from Project Gutenberg and processed in Google Colab.
 
 ## Dataset
-- Source: https://www.gutenberg.org/cache/epub/67979/pg67979.txt
-- Format: Plain text (UTF-8)
-- Loaded using a global URL as required.
+-  https://www.gutenberg.org/cache/epub/67979/pg67979.txt
 
 ## Task
 I performed text summarization using the `facebook/bart-large-cnn` model from HuggingFace.
