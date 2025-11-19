@@ -1,7 +1,6 @@
-# CS4372_Hwk4_Shyam_Rudy
-# Text Summarization with Transformers
+# CS4372_Hwk4_Shyam_Rudy | Text Summarization with Transformers
 
-This project uses a pre-trained transformer model to summarize the novel The Blue Castle** by L. M. Montgomery.  
+This project uses a pre-trained transformer model to summarize the novel The Blue Castle by L. M. Montgomery.  
 The text is downloaded directly from Project Gutenberg and processed in Google Colab.
 
 ## Dataset
