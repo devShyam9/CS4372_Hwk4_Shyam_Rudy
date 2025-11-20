@@ -24,6 +24,6 @@ Open the provided Google Colab notebook and run each cell in order.
 
 ## Files
 - `summaries.txt` -  Summaries 
-- `CS4372_Shyam_and_Rudy.ipynb` - Code
+- `CS4372__Hwk4_Shyam_and_Rudy.ipynb` - Code
 -  `CS4372_Hwk4_Report_Shyam_Rudy ` - Report
 
