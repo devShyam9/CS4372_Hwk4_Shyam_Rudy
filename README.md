@@ -7,10 +7,10 @@ The text is downloaded directly from Project Gutenberg and processed in Google C
 -  https://www.gutenberg.org/cache/epub/67979/pg67979.txt
 
 ## Task
-We performed text summarization using the `facebook/bart-large-cnn` model from HuggingFace.
+We performed text summarization using the facebook/bart-large-cnn model from HuggingFace.
 
 ## Steps
-1. Download the book text using `requests`.
+1. Download the book text using requests.
 2. Clean the text and remove the Gutenberg header.
 3. Split the text into chunks.
 4. Run the BART summarization pipeline on the chunks.
